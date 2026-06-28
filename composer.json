@@ -1,0 +1,16 @@
+{
+    "name": "nexphant/events",
+    "description": "Nexphant Events - Event dispatcher",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Nexphant\\Events\\": "src/"
+        }
+    },
+    "require": {
+        "php": "^8.1"
+    },
+    "minimum-stability": "dev",
+    "prefer-stable": true
+}
